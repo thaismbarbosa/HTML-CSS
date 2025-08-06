@@ -1,0 +1,44 @@
+* {
+    background-color: rgb(221, 238, 232);
+}
+
+h1{
+    text-align: center;
+    padding: 40px;
+}
+
+nav ul {
+    list-style-position: inside;
+    text-align: center;
+    padding: 0;
+}
+
+.container {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.caixa {
+    width: 150px;
+    height: 150px;
+    background-color: rgb(90, 76, 218);
+    margin: 10px;
+}
+
+h2 {
+    text-align: center;
+    padding: 16px;
+    
+}
+
+p{
+    text-align: center;
+    padding: 16px;
+}
+
+h3{
+    text-align: center;
+    padding: 16px;
+}
